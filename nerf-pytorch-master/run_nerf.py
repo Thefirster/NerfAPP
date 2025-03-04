@@ -801,8 +801,7 @@ def train():
 
         #更改成5000次输出
         args.i_video=5000
-
-
+        
         if i%args.i_video==0 and i > 0:
             # Turn on testing mode
             with torch.no_grad():
@@ -818,7 +817,6 @@ def train():
             #         rgbs_still, _ = render_path(render_poses, hwf, args.chunk, render_kwargs_test)
             #     render_kwargs_test['c2w_staticcam'] = None
             #     imageio.mimwrite(moviebase + 'rgb_still.mp4', to8b(rgbs_still), fps=30, quality=8)
-
 
         #更改成5000次输出
         args.i_testset=5000
