@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestOfNerf")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e17f2a56b672f6d6b392fa92367741e427ce3328")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3b2d23a0e451f3935aa4e6ec9ae50249876b174")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestOfNerf")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestOfNerf")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

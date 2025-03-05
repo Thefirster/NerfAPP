@@ -3,8 +3,10 @@
   "WorkspaceRootPath": "D:\\GithubCode\\NerfApp\\TestOfNerf\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{372F667B-5DC3-4DE0-8C16-57A0DAA49A7F}|TestOfNerf.csproj|d:\\githubcode\\nerfapp\\testofnerf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{372F667B-5DC3-4DE0-8C16-57A0DAA49A7F}|TestOfNerf.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B11FBA12-4AB2-418D-B0C2-F7D996D56734}|..\\NerfUI\\NerfUI\\NerfUI.csproj|d:\\githubcode\\nerfapp\\nerfui\\nerfui\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B11FBA12-4AB2-418D-B0C2-F7D996D56734}|..\\NerfUI\\NerfUI\\NerfUI.csproj|d:\\githubcode\\nerfapp\\nerfui\\nerfui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,8 +15,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "DockedWidth": 1400,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,21 +28,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\GithubCode\\NerfApp\\TestOfNerf\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\GithubCode\\NerfApp\\TestOfNerf\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\Program.cs",
+              "RelativeDocumentMoniker": "..\\NerfUI\\NerfUI\\Program.cs",
+              "ToolTip": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\Program.cs",
+              "RelativeToolTip": "..\\NerfUI\\NerfUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T02:36:49.702Z",
+              "WhenOpened": "2025-03-04T09:46:28.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "..\\NerfUI\\NerfUI\\Pages\\Counter.razor",
+              "ToolTip": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\Pages\\Counter.razor",
+              "RelativeToolTip": "..\\NerfUI\\NerfUI\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T09:04:35.577Z",
               "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedWidth": 1697,
+          "DockedWidth": 497,
           "SelectedChildIndex": -1,
           "Children": [
             {
