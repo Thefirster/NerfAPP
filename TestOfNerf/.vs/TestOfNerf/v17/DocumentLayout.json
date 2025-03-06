@@ -6,7 +6,7 @@
       "AbsoluteMoniker": "D:0:0:{B11FBA12-4AB2-418D-B0C2-F7D996D56734}|..\\NerfUI\\NerfUI\\NerfUI.csproj|d:\\githubcode\\nerfapp\\nerfui\\nerfui\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B11FBA12-4AB2-418D-B0C2-F7D996D56734}|..\\NerfUI\\NerfUI\\NerfUI.csproj|d:\\githubcode\\nerfapp\\nerfui\\nerfui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B11FBA12-4AB2-418D-B0C2-F7D996D56734}|..\\NerfUI\\NerfUI\\NerfUI.csproj|d:\\githubcode\\nerfapp\\nerfui\\nerfui\\component\\componentbutton.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,14 +29,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\Program.cs",
-              "RelativeDocumentMoniker": "..\\NerfUI\\NerfUI\\Program.cs",
-              "ToolTip": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\Program.cs",
-              "RelativeToolTip": "..\\NerfUI\\NerfUI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T09:46:28.058Z"
+              "Title": "ComponentButton.razor",
+              "DocumentMoniker": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\Component\\ComponentButton.razor",
+              "RelativeDocumentMoniker": "..\\NerfUI\\NerfUI\\Component\\ComponentButton.razor",
+              "ToolTip": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\Component\\ComponentButton.razor",
+              "RelativeToolTip": "..\\NerfUI\\NerfUI\\Component\\ComponentButton.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T11:13:42.142Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -46,7 +47,7 @@
               "RelativeDocumentMoniker": "..\\NerfUI\\NerfUI\\Pages\\Counter.razor",
               "ToolTip": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\Pages\\Counter.razor",
               "RelativeToolTip": "..\\NerfUI\\NerfUI\\Pages\\Counter.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-04T09:04:35.577Z",
               "EditorCaption": ""

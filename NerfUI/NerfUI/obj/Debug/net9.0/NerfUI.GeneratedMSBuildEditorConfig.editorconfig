@@ -28,6 +28,10 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/GithubCode/NerfApp/NerfUI/NerfUI/Component/ComponentButton.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XENvbXBvbmVudEJ1dHRvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/GithubCode/NerfApp/NerfUI/NerfUI/Layout/Widget.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XFdpZGdldC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 

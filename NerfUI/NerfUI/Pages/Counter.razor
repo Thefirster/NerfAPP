@@ -1,12 +1,59 @@
 ﻿@page "/counter"
+@using Component
 
-<VideoPlayer @ref="Player" MineType="@MineType" Url="@Url" Width="500" Height="380" AutoPlay="false"/>
+<div class="row g-3">
+    <div class="col-6 col-sm-4 col-md-3 col-lg-auto">
+        <Button OnClick="@ButtonClick" Color="Color.Primary" IsAsync="true" Icon="fa-solid fa-fw fa-font-awesome" Text="@text" />
+    </div>
+    <ConsoleLogger @ref="NormalLogger" />
+    <VideoPlayer @ref="Player" MineType="@MineType" Url="@Url" Width="500" Height="380" AutoPlay="false" />
+</div>
+
+
+<DialogCloseButton Color="Color.Success" Icon="fa-solid fa-fw fa-font-awesome" Text="提交"
+                   OnClickWithoutRender="() => OnClick(DialogResult.No)"/>
+
 
 @code
 {
+    //视频播放
     private string MineType = "video/mp4";
-
     private VideoPlayer? Player { get; set; }
-    
     string Url = "http://localhost:5005/fern_test_spiral_050000_rgb.mp4";
+
+    //按钮
+    string text { get; set; } = "提交";
+
+    [NotNull]
+    private ConsoleLogger? NormalLogger { get; set; }
+
+    private async Task ButtonClick(MouseEventArgs e)
+    {
+        Thread.Sleep(1000);
+        NormalLogger.Log($"提交成功");
+    }
+
+    //弹窗按钮
+    [Inject]
+    [NotNull]
+    private DialogService? DialogService { get; set; }
+
+    private async Task OnClick(DialogResult dialogResult)
+    {
+        // 弹出模态框
+        var op = new DialogOption
+            {
+                Title = "文件上传",
+                ShowFooter = true,
+                Component = BootstrapDynamicComponent.CreateComponent<ComponentButton>(),
+            };
+
+        await DialogService.Show(op);
+    }
+
+
+
+
+
+
 }

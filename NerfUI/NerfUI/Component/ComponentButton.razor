@@ -1,0 +1,19 @@
+﻿<div>
+    <p>这是自定义的内容，你可以在这里添加表单、文本等。</p>
+    <input type="text" @bind-value="InputValue" placeholder="请输入一些内容">
+    <button @onclick="SubmitData">提交数据</button>
+    <ConsoleLogger @ref="NormalLogger" />
+</div>
+
+@code {
+    private string? InputValue { get; set; }
+
+    [NotNull]
+    private ConsoleLogger? NormalLogger { get; set; }
+
+    private async Task SubmitData()
+    {
+        // 这里可以处理提交的数据
+        NormalLogger.Log($"提交的数据: {InputValue}");
+    }
+}
