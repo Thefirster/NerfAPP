@@ -1,6 +1,14 @@
 ﻿<div>
-    <p>这是自定义的内容，你可以在这里添加表单、文本等。</p>
-    <input type="text" @bind-value="InputValue" placeholder="请输入一些内容">
+    <div class="row g-3">
+        <div class="col-12">
+            <label for="text3" class="form-label">文件:</label>
+            <!--文件上传-->
+            <InputUpload TValue="string" ShowDeleteButton="true" OnChange="@OnFileChange" OnDelete="@OnFileDelete"></InputUpload>
+            <ConsoleLogger @ref="NormalLogger_file" />
+        </div>
+        <ButtonUpload TValue="string" IsMultiple="true" ShowProgress="true" OnChange="@OnClickToUpload" OnDelete="@(fileName => Task.FromResult(true))"></ButtonUpload>
+    </div>
+
     <button @onclick="SubmitData">提交数据</button>
     <ConsoleLogger @ref="NormalLogger" />
 </div>
@@ -15,5 +23,84 @@
     {
         // 这里可以处理提交的数据
         NormalLogger.Log($"提交的数据: {InputValue}");
+    }
+
+
+    //上传文件
+
+    [NotNull]
+    private ConsoleLogger? NormalLogger_file { get; set; }
+
+    private Task OnFileChange(UploadFile file)
+    {
+        // 未真正保存文件
+        // file.SaveToFile()
+        NormalLogger_file.Log($"{file.File!.Name} {"上传成功"}");
+        return Task.CompletedTask;
+    }
+
+    private Task<bool> OnFileDelete(UploadFile item)
+    {
+        // 未真正删除文件
+        // file.DeleteToFile()
+        NormalLogger_file.Log($"{item.OriginFileName} {"成功移除"}");
+        return Task.FromResult(true);
+    }
+
+    private static readonly Random random = new();
+
+    private async Task OnClickToUpload(UploadFile file)
+    {
+        // 示例代码，模拟 80% 几率保存成功
+        var error = random.Next(1, 100) > 80;
+        if (error)
+        {
+            file.Code = 1;
+            file.Error = "模拟上传失败";
+        }
+        else
+        {
+            await SaveToFile(file);
+        }
+    }
+
+    private async Task<bool> SaveToFile(UploadFile file)
+    {
+        /*
+        // Server Side 使用
+        // Web Assembly 模式下必须使用 WebApi 方式去保存文件到服务器或者数据库中
+        // 生成写入文件名称
+        var ret = false;
+        if (!string.IsNullOrEmpty(WebsiteOption.CurrentValue.WebRootPath))
+        {
+            var uploaderFolder = Path.Combine(WebsiteOption.CurrentValue.WebRootPath, $"images{Path.DirectorySeparatorChar}uploader");
+            file.FileName = $"{Path.GetFileNameWithoutExtension(file.OriginFileName)}-{DateTimeOffset.Now:yyyyMMddHHmmss}{Path.GetExtension(file.OriginFileName)}";
+            var fileName = Path.Combine(uploaderFolder, file.FileName);
+
+            ReadToken ??= new CancellationTokenSource();
+            ret = await file.SaveToFileAsync(fileName, MaxFileLength, ReadToken.Token);
+
+            if (ret)
+            {
+                // 保存成功
+                file.PrevUrl = $"{WebsiteOption.CurrentValue.AssetRootPath}images/uploader/{file.FileName}";
+            }
+            else
+            {
+                var errorMessage = $"{"保存文件失败"} {file.OriginFileName}";
+                file.Code = 1;
+                file.Error = errorMessage;
+                await ToastService.Error("上传文件", errorMessage);
+            }
+        }
+        else
+        {
+            file.Code = 1;
+            file.Error = "Wasm 模式未实现保存代码";
+            await ToastService.Information("保存文件", "当前模式为 WebAssembly 模式，请调用 Webapi 模式保存文件到服务器端或数据库中");
+        }
+        return ret;*/
+
+        return true;
     }
 }

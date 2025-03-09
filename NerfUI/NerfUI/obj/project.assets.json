@@ -2717,7 +2717,7 @@
     "net9.0": [
       "BootstrapBlazor >= 9.0.*",
       "BootstrapBlazor.FontAwesome >= 9.0.*",
-      "BootstrapBlazor.VideoPlayer >= 9.0.3",
+      "BootstrapBlazor.VideoPlayer >= 9.0.*",
       "Microsoft.AspNetCore.Components.WebAssembly >= 9.0.*",
       "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 9.0.*",
       "Microsoft.NET.ILLink.Tasks >= 9.0.0",
@@ -2785,7 +2785,7 @@
           },
           "BootstrapBlazor.VideoPlayer": {
             "target": "Package",
-            "version": "[9.0.3, )"
+            "version": "[9.0.*, )"
           },
           "Microsoft.AspNetCore.Components.WebAssembly": {
             "target": "Package",

@@ -44,6 +44,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/GithubCode/NerfApp/NerfUI/NerfUI/Pages/NerfApp.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmVyZkFwcC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/GithubCode/NerfApp/NerfUI/NerfUI/Pages/TableDemo.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGFibGVEZW1vLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 

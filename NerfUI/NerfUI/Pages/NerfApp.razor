@@ -1,0 +1,47 @@
+﻿@page "/nerfapp"
+@using Component;
+
+
+<div class="child">
+    <!--视频播放-->
+    <!--
+    <div>
+        <VideoPlayer @ref="Player" MineType="@MineType" Url="@Url"
+                     Width="500" Height="280" AutoPlay="false"/>
+    </div>
+    -->
+    <div style="text-align: center;">
+        <!--文件上传弹窗按钮-->
+        <DialogCloseButton
+                Size="Size.Large"Color="Color.Success"
+                Icon="fa-solid fa-fw fa-font-awesome"Text="数据上传"
+                OnClickWithoutRender="() => OnClick(DialogResult.No)" />
+    </div>
+</div>
+
+@code{
+    /*
+    //视频播放
+    private string MineType = "video/mp4";
+    private VideoPlayer? Player { get; set; }
+    string Url = "http://localhost:5005/fern_test_spiral_050000_rgb.mp4";
+    */
+
+    //弹窗按钮
+    [Inject]
+    [NotNull]
+    private DialogService? DialogService { get; set; }
+
+    private async Task OnClick(DialogResult dialogResult)
+    {
+        // 弹出模态框
+        var op = new DialogOption
+            {
+                Title = "文件上传",
+                ShowFooter = true,
+                Component = BootstrapDynamicComponent.CreateComponent<ComponentButton>(),
+            };
+
+        await DialogService.Show(op);
+    }
+}

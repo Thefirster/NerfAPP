@@ -61,7 +61,7 @@
             },
             "BootstrapBlazor.VideoPlayer": {
               "target": "Package",
-              "version": "[9.0.3, )"
+              "version": "[9.0.*, )"
             },
             "Microsoft.AspNetCore.Components.WebAssembly": {
               "target": "Package",

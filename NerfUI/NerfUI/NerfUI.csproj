@@ -18,7 +18,7 @@
   <ItemGroup>
     <PackageReference Include="BootstrapBlazor" Version="9.0.*" />
     <PackageReference Include="BootstrapBlazor.FontAwesome" Version="9.0.*" />
-    <PackageReference Include="BootstrapBlazor.VideoPlayer" Version="9.0.3" />
+    <PackageReference Include="BootstrapBlazor.VideoPlayer" Version="9.0.*" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="9.0.*" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="9.0.*" PrivateAssets="all" />
   </ItemGroup>
