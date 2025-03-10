@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NerfUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d00f0ea1dea7eda20bccc2367c00924b1cd3084")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48fd7c47dc6237d06bdd8ebadbd8a98297fbc7b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("NerfUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NerfUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

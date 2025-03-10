@@ -8,9 +8,6 @@
         </div>
         <ButtonUpload TValue="string" IsMultiple="true" ShowProgress="true" OnChange="@OnClickToUpload" OnDelete="@(fileName => Task.FromResult(true))"></ButtonUpload>
     </div>
-
-    <button @onclick="SubmitData">提交数据</button>
-    <ConsoleLogger @ref="NormalLogger" />
 </div>
 
 @code {
@@ -18,13 +15,6 @@
 
     [NotNull]
     private ConsoleLogger? NormalLogger { get; set; }
-
-    private async Task SubmitData()
-    {
-        // 这里可以处理提交的数据
-        NormalLogger.Log($"提交的数据: {InputValue}");
-    }
-
 
     //上传文件
 

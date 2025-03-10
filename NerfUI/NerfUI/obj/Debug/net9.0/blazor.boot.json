@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "NerfUI",
   "resources": {
-    "hash": "sha256-tb7zR2hsJ3iA7JMRtB2PfSxUIo7iZ9J/TSGpbcI+Zx4=",
+    "hash": "sha256-900dEKPSBYSfqts4R2/BovY+0UvQ0hOmInz+z9pfqxo=",
     "fingerprinting": {
       "BootstrapBlazor.m4f3sl2xbj.wasm": "BootstrapBlazor.wasm",
       "BootstrapBlazor.FontAwesome.9ozzrx03af.wasm": "BootstrapBlazor.FontAwesome.wasm",
@@ -213,8 +213,8 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "NerfUI.y78jhhqojn.wasm": "NerfUI.wasm",
-      "NerfUI.6isuj877us.pdb": "NerfUI.pdb"
+      "NerfUI.u13me66fun.wasm": "NerfUI.wasm",
+      "NerfUI.o9wmm36fs3.pdb": "NerfUI.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.hmanx9razn.js": "sha256-d7UNSArplVrX3arY2Kmhxp1wN79ng8hLqIBrkiQ9Gbo="
@@ -436,10 +436,10 @@
       "WindowsBase.377bly7twj.wasm": "sha256-0VmBdMjdc0nZGHDSfaGirT6y3mJTM0qx8eqCUC/rpiE=",
       "mscorlib.o0184ey5ia.wasm": "sha256-2GxNKZQJVJvYMUxSTuXa5V2qxawSMMHZtwG33SKVCZU=",
       "netstandard.hb3h2rr8mk.wasm": "sha256-DWn9+RH/ElZQ6imlYqVwZvir1KTzNwY18AzGmnyiymU=",
-      "NerfUI.y78jhhqojn.wasm": "sha256-ohq9Oi/JV5fte2Qkl4QeueK6YAqUZdUKJDfC+0ZnCWU="
+      "NerfUI.u13me66fun.wasm": "sha256-DoH/nNbKR8TzwIi95p4WBz++BVaF27Crf+48ECWAcpw="
     },
     "pdb": {
-      "NerfUI.6isuj877us.pdb": "sha256-zi691Rcv2F8Pd83fvDzOfdYbR2ZK0gZjD/ryKNoC5/Y="
+      "NerfUI.o9wmm36fs3.pdb": "sha256-JNHDeAvfFAWRw353FYWphrhwIvK+rUU0p5tissJfK/0="
     }
   },
   "cacheBootResources": true,

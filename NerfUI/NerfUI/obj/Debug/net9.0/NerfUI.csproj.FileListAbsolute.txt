@@ -1254,10 +1254,10 @@ D:\GithubCode\NerfApp\NerfUI\NerfUI\obj\Debug\net9.0\compressed\q6m572gjcn-6zw48
 D:\GithubCode\NerfApp\NerfUI\NerfUI\obj\Debug\net9.0\compressed\nqb8feiiso-kdnfoxc56r.gz
 D:\GithubCode\NerfApp\NerfUI\NerfUI\obj\Debug\net9.0\compressed\a6f4det8cl-qcvvccohn0.gz
 D:\GithubCode\NerfApp\NerfUI\NerfUI\obj\Debug\net9.0\compressed\6ud0oe80qf-emkyqa455k.gz
-D:\GithubCode\NerfApp\NerfUI\NerfUI\bin\Debug\net9.0\wwwroot\_framework\NerfUI.6isuj877us.pdb
-D:\GithubCode\NerfApp\NerfUI\NerfUI\bin\Debug\net9.0\wwwroot\_framework\NerfUI.y78jhhqojn.wasm
-D:\GithubCode\NerfApp\NerfUI\NerfUI\bin\Debug\net9.0\wwwroot\_framework\NerfUI.6isuj877us.pdb.gz
-D:\GithubCode\NerfApp\NerfUI\NerfUI\bin\Debug\net9.0\wwwroot\_framework\NerfUI.y78jhhqojn.wasm.gz
-D:\GithubCode\NerfApp\NerfUI\NerfUI\obj\Debug\net9.0\compressed\vbb5ufv4uh-y78jhhqojn.gz
-D:\GithubCode\NerfApp\NerfUI\NerfUI\obj\Debug\net9.0\compressed\jkvr3fv84g-6isuj877us.gz
-D:\GithubCode\NerfApp\NerfUI\NerfUI\obj\Debug\net9.0\compressed\h3d6v1fp8m-6098ludpnp.gz
+D:\GithubCode\NerfApp\NerfUI\NerfUI\bin\Debug\net9.0\wwwroot\_framework\NerfUI.o9wmm36fs3.pdb
+D:\GithubCode\NerfApp\NerfUI\NerfUI\bin\Debug\net9.0\wwwroot\_framework\NerfUI.u13me66fun.wasm
+D:\GithubCode\NerfApp\NerfUI\NerfUI\bin\Debug\net9.0\wwwroot\_framework\NerfUI.o9wmm36fs3.pdb.gz
+D:\GithubCode\NerfApp\NerfUI\NerfUI\bin\Debug\net9.0\wwwroot\_framework\NerfUI.u13me66fun.wasm.gz
+D:\GithubCode\NerfApp\NerfUI\NerfUI\obj\Debug\net9.0\compressed\vbb5ufv4uh-u13me66fun.gz
+D:\GithubCode\NerfApp\NerfUI\NerfUI\obj\Debug\net9.0\compressed\jkvr3fv84g-o9wmm36fs3.gz
+D:\GithubCode\NerfApp\NerfUI\NerfUI\obj\Debug\net9.0\compressed\h3d6v1fp8m-x9g8hpjmeo.gz

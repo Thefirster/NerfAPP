@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qbaq7MTrIrfeDC1MxSZqtNjTAbIqXkXVKH+rakPPCnI=",
+  "Hash": "26ulNa1YVpmAx+KDu56Te26lJcppSIJsvVQunVjTR68=",
   "Source": "NerfUI",
   "BasePath": "/",
   "Mode": "Root",
@@ -3559,8 +3559,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "6098ludpnp",
-      "Integrity": "aqPNAYeCaVn2Mg6QfYYReqekgwZ17gLJ1U9sZ3bPon8=",
+      "Fingerprint": "x9g8hpjmeo",
+      "Integrity": "ZWkZMiN31alEY6gY/IVfPyp2jn0yyfGo4jkeQXKaqlw=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -4630,8 +4630,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "6isuj877us",
-      "Integrity": "zi691Rcv2F8Pd83fvDzOfdYbR2ZK0gZjD/ryKNoC5/Y=",
+      "Fingerprint": "o9wmm36fs3",
+      "Integrity": "JNHDeAvfFAWRw353FYWphrhwIvK+rUU0p5tissJfK/0=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\NerfUI.pdb"
@@ -4651,8 +4651,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "y78jhhqojn",
-      "Integrity": "ohq9Oi/JV5fte2Qkl4QeueK6YAqUZdUKJDfC+0ZnCWU=",
+      "Fingerprint": "u13me66fun",
+      "Integrity": "DoH/nNbKR8TzwIi95p4WBz++BVaF27Crf+48ECWAcpw=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\obj\\Debug\\net9.0\\webcil\\NerfUI.wasm"
@@ -11945,7 +11945,7 @@
       "OriginalItemSpec": "C:\\Users\\a1146\\.nuget\\packages\\bootstrapblazor.videoplayer\\9.0.3\\staticwebassets\\lang\\cs.js"
     },
     {
-      "Identity": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\obj\\Debug\\net9.0\\compressed\\h3d6v1fp8m-6098ludpnp.gz",
+      "Identity": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\obj\\Debug\\net9.0\\compressed\\h3d6v1fp8m-x9g8hpjmeo.gz",
       "SourceId": "NerfUI",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\obj\\Debug\\net9.0\\compressed\\",
@@ -11959,8 +11959,8 @@
       "RelatedAsset": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "mxfdsjjm96",
-      "Integrity": "6gn6KYGLwiksymWbnNdAYZ5ELlCn8arhjYCFP3GpdV0=",
+      "Fingerprint": "n9gawx8sum",
+      "Integrity": "2zR4DWHJwNwcjf4P37hdcSaazx7dBSGgqUoB6+ePc8s=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -12407,12 +12407,12 @@
       "OriginalItemSpec": "C:\\Users\\a1146\\.nuget\\packages\\bootstrapblazor.videoplayer\\9.0.3\\staticwebassets\\lang\\gd.js"
     },
     {
-      "Identity": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\obj\\Debug\\net9.0\\compressed\\jkvr3fv84g-6isuj877us.gz",
+      "Identity": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\obj\\Debug\\net9.0\\compressed\\jkvr3fv84g-o9wmm36fs3.gz",
       "SourceId": "NerfUI",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/NerfUI#[.{fingerprint=6isuj877us}]!.pdb.gz",
+      "RelativePath": "_framework/NerfUI#[.{fingerprint=o9wmm36fs3}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -12421,8 +12421,8 @@
       "RelatedAsset": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\bin\\Debug\\net9.0\\wwwroot\\_framework\\NerfUI.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "wfsvibfct1",
-      "Integrity": "vO/WP4BFkNBRrCilq2NFEB8Xl6uxSVu+M3n2M2n6YHI=",
+      "Fingerprint": "fzg9vsau6e",
+      "Integrity": "O01bQt/NG0EnvRk/dEG0R6igzV1FhQFuoDmpP6IJvd4=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\bin\\Debug\\net9.0\\wwwroot\\_framework\\NerfUI.pdb"
@@ -14906,12 +14906,12 @@
       "OriginalItemSpec": "C:\\Users\\a1146\\.nuget\\packages\\bootstrapblazor\\9.0.2\\staticwebassets\\Components\\Card\\Card.razor.js"
     },
     {
-      "Identity": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\obj\\Debug\\net9.0\\compressed\\vbb5ufv4uh-y78jhhqojn.gz",
+      "Identity": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\obj\\Debug\\net9.0\\compressed\\vbb5ufv4uh-u13me66fun.gz",
       "SourceId": "NerfUI",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/NerfUI#[.{fingerprint=y78jhhqojn}]!.wasm.gz",
+      "RelativePath": "_framework/NerfUI#[.{fingerprint=u13me66fun}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -14920,8 +14920,8 @@
       "RelatedAsset": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\bin\\Debug\\net9.0\\wwwroot\\_framework\\NerfUI.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "mzzhce16sr",
-      "Integrity": "cuSRGur0355jiaRhHQJ2jla8Dle/ETKQK+qnE6F5u2I=",
+      "Fingerprint": "h3chgdloav",
+      "Integrity": "g/R25kzYuYar2uufnV/c6+DfyBdFp3ZAw128hYdT7GM=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\bin\\Debug\\net9.0\\wwwroot\\_framework\\NerfUI.wasm"
@@ -44187,11 +44187,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"aqPNAYeCaVn2Mg6QfYYReqekgwZ17gLJ1U9sZ3bPon8=\""
+          "Value": "\"ZWkZMiN31alEY6gY/IVfPyp2jn0yyfGo4jkeQXKaqlw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 14:22:20 GMT"
+          "Value": "Mon, 10 Mar 2025 02:40:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -44201,13 +44201,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-aqPNAYeCaVn2Mg6QfYYReqekgwZ17gLJ1U9sZ3bPon8="
+          "Value": "sha256-ZWkZMiN31alEY6gY/IVfPyp2jn0yyfGo4jkeQXKaqlw="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\obj\\Debug\\net9.0\\compressed\\h3d6v1fp8m-6098ludpnp.gz",
+      "AssetFile": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\obj\\Debug\\net9.0\\compressed\\h3d6v1fp8m-x9g8hpjmeo.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -44226,11 +44226,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"6gn6KYGLwiksymWbnNdAYZ5ELlCn8arhjYCFP3GpdV0=\""
+          "Value": "\"2zR4DWHJwNwcjf4P37hdcSaazx7dBSGgqUoB6+ePc8s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 14:21:51 GMT"
+          "Value": "Mon, 10 Mar 2025 02:38:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -44250,19 +44250,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"aqPNAYeCaVn2Mg6QfYYReqekgwZ17gLJ1U9sZ3bPon8=\""
+          "Value": "W/\"ZWkZMiN31alEY6gY/IVfPyp2jn0yyfGo4jkeQXKaqlw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-aqPNAYeCaVn2Mg6QfYYReqekgwZ17gLJ1U9sZ3bPon8="
+          "Value": "sha256-ZWkZMiN31alEY6gY/IVfPyp2jn0yyfGo4jkeQXKaqlw="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\obj\\Debug\\net9.0\\compressed\\h3d6v1fp8m-6098ludpnp.gz",
+      "AssetFile": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\obj\\Debug\\net9.0\\compressed\\h3d6v1fp8m-x9g8hpjmeo.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -44279,11 +44279,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"6gn6KYGLwiksymWbnNdAYZ5ELlCn8arhjYCFP3GpdV0=\""
+          "Value": "\"2zR4DWHJwNwcjf4P37hdcSaazx7dBSGgqUoB6+ePc8s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 14:21:51 GMT"
+          "Value": "Mon, 10 Mar 2025 02:38:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -44301,7 +44301,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-6gn6KYGLwiksymWbnNdAYZ5ELlCn8arhjYCFP3GpdV0="
+          "Value": "sha256-2zR4DWHJwNwcjf4P37hdcSaazx7dBSGgqUoB6+ePc8s="
         }
       ]
     },
@@ -59045,7 +59045,7 @@
       ]
     },
     {
-      "Route": "_framework/NerfUI.6isuj877us.pdb",
+      "Route": "_framework/NerfUI.o9wmm36fs3.pdb",
       "AssetFile": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\bin\\Debug\\net9.0\\wwwroot\\_framework\\NerfUI.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -59055,7 +59055,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "50864"
+          "Value": "50964"
         },
         {
           "Name": "Content-Type",
@@ -59063,11 +59063,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zi691Rcv2F8Pd83fvDzOfdYbR2ZK0gZjD/ryKNoC5/Y=\""
+          "Value": "\"JNHDeAvfFAWRw353FYWphrhwIvK+rUU0p5tissJfK/0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 14:22:19 GMT"
+          "Value": "Mon, 10 Mar 2025 02:40:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -59077,7 +59077,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6isuj877us"
+          "Value": "o9wmm36fs3"
         },
         {
           "Name": "label",
@@ -59085,18 +59085,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-zi691Rcv2F8Pd83fvDzOfdYbR2ZK0gZjD/ryKNoC5/Y="
+          "Value": "sha256-JNHDeAvfFAWRw353FYWphrhwIvK+rUU0p5tissJfK/0="
         }
       ]
     },
     {
-      "Route": "_framework/NerfUI.6isuj877us.pdb",
-      "AssetFile": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\obj\\Debug\\net9.0\\compressed\\jkvr3fv84g-6isuj877us.gz",
+      "Route": "_framework/NerfUI.o9wmm36fs3.pdb",
+      "AssetFile": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\obj\\Debug\\net9.0\\compressed\\jkvr3fv84g-o9wmm36fs3.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000025031289"
+          "Quality": "0.000024962556"
         }
       ],
       "ResponseHeaders": [
@@ -59106,15 +59106,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "39949"
+          "Value": "40059"
         },
         {
           "Name": "ETag",
-          "Value": "\"vO/WP4BFkNBRrCilq2NFEB8Xl6uxSVu+M3n2M2n6YHI=\""
+          "Value": "\"O01bQt/NG0EnvRk/dEG0R6igzV1FhQFuoDmpP6IJvd4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 14:22:20 GMT"
+          "Value": "Mon, 10 Mar 2025 02:40:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -59134,13 +59134,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"zi691Rcv2F8Pd83fvDzOfdYbR2ZK0gZjD/ryKNoC5/Y=\""
+          "Value": "W/\"JNHDeAvfFAWRw353FYWphrhwIvK+rUU0p5tissJfK/0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6isuj877us"
+          "Value": "o9wmm36fs3"
         },
         {
           "Name": "label",
@@ -59148,13 +59148,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-zi691Rcv2F8Pd83fvDzOfdYbR2ZK0gZjD/ryKNoC5/Y="
+          "Value": "sha256-JNHDeAvfFAWRw353FYWphrhwIvK+rUU0p5tissJfK/0="
         }
       ]
     },
     {
-      "Route": "_framework/NerfUI.6isuj877us.pdb.gz",
-      "AssetFile": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\obj\\Debug\\net9.0\\compressed\\jkvr3fv84g-6isuj877us.gz",
+      "Route": "_framework/NerfUI.o9wmm36fs3.pdb.gz",
+      "AssetFile": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\obj\\Debug\\net9.0\\compressed\\jkvr3fv84g-o9wmm36fs3.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -59163,7 +59163,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "39949"
+          "Value": "40059"
         },
         {
           "Name": "Content-Type",
@@ -59171,11 +59171,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"vO/WP4BFkNBRrCilq2NFEB8Xl6uxSVu+M3n2M2n6YHI=\""
+          "Value": "\"O01bQt/NG0EnvRk/dEG0R6igzV1FhQFuoDmpP6IJvd4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 14:22:20 GMT"
+          "Value": "Mon, 10 Mar 2025 02:40:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -59193,7 +59193,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6isuj877us"
+          "Value": "o9wmm36fs3"
         },
         {
           "Name": "label",
@@ -59201,7 +59201,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-vO/WP4BFkNBRrCilq2NFEB8Xl6uxSVu+M3n2M2n6YHI="
+          "Value": "sha256-O01bQt/NG0EnvRk/dEG0R6igzV1FhQFuoDmpP6IJvd4="
         }
       ]
     },
@@ -59216,7 +59216,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "50864"
+          "Value": "50964"
         },
         {
           "Name": "Content-Type",
@@ -59224,11 +59224,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zi691Rcv2F8Pd83fvDzOfdYbR2ZK0gZjD/ryKNoC5/Y=\""
+          "Value": "\"JNHDeAvfFAWRw353FYWphrhwIvK+rUU0p5tissJfK/0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 14:22:19 GMT"
+          "Value": "Mon, 10 Mar 2025 02:40:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -59238,18 +59238,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-zi691Rcv2F8Pd83fvDzOfdYbR2ZK0gZjD/ryKNoC5/Y="
+          "Value": "sha256-JNHDeAvfFAWRw353FYWphrhwIvK+rUU0p5tissJfK/0="
         }
       ]
     },
     {
       "Route": "_framework/NerfUI.pdb",
-      "AssetFile": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\obj\\Debug\\net9.0\\compressed\\jkvr3fv84g-6isuj877us.gz",
+      "AssetFile": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\obj\\Debug\\net9.0\\compressed\\jkvr3fv84g-o9wmm36fs3.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000025031289"
+          "Quality": "0.000024962556"
         }
       ],
       "ResponseHeaders": [
@@ -59259,15 +59259,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "39949"
+          "Value": "40059"
         },
         {
           "Name": "ETag",
-          "Value": "\"vO/WP4BFkNBRrCilq2NFEB8Xl6uxSVu+M3n2M2n6YHI=\""
+          "Value": "\"O01bQt/NG0EnvRk/dEG0R6igzV1FhQFuoDmpP6IJvd4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 14:22:20 GMT"
+          "Value": "Mon, 10 Mar 2025 02:40:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -59287,19 +59287,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"zi691Rcv2F8Pd83fvDzOfdYbR2ZK0gZjD/ryKNoC5/Y=\""
+          "Value": "W/\"JNHDeAvfFAWRw353FYWphrhwIvK+rUU0p5tissJfK/0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-zi691Rcv2F8Pd83fvDzOfdYbR2ZK0gZjD/ryKNoC5/Y="
+          "Value": "sha256-JNHDeAvfFAWRw353FYWphrhwIvK+rUU0p5tissJfK/0="
         }
       ]
     },
     {
       "Route": "_framework/NerfUI.pdb.gz",
-      "AssetFile": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\obj\\Debug\\net9.0\\compressed\\jkvr3fv84g-6isuj877us.gz",
+      "AssetFile": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\obj\\Debug\\net9.0\\compressed\\jkvr3fv84g-o9wmm36fs3.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -59308,7 +59308,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "39949"
+          "Value": "40059"
         },
         {
           "Name": "Content-Type",
@@ -59316,11 +59316,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"vO/WP4BFkNBRrCilq2NFEB8Xl6uxSVu+M3n2M2n6YHI=\""
+          "Value": "\"O01bQt/NG0EnvRk/dEG0R6igzV1FhQFuoDmpP6IJvd4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 14:22:20 GMT"
+          "Value": "Mon, 10 Mar 2025 02:40:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -59338,12 +59338,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-vO/WP4BFkNBRrCilq2NFEB8Xl6uxSVu+M3n2M2n6YHI="
+          "Value": "sha256-O01bQt/NG0EnvRk/dEG0R6igzV1FhQFuoDmpP6IJvd4="
         }
       ]
     },
     {
-      "Route": "_framework/NerfUI.wasm",
+      "Route": "_framework/NerfUI.u13me66fun.wasm",
       "AssetFile": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\bin\\Debug\\net9.0\\wwwroot\\_framework\\NerfUI.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -59353,7 +59353,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "69397"
+          "Value": "68885"
         },
         {
           "Name": "Content-Type",
@@ -59361,148 +59361,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ohq9Oi/JV5fte2Qkl4QeueK6YAqUZdUKJDfC+0ZnCWU=\""
+          "Value": "\"DoH/nNbKR8TzwIi95p4WBz++BVaF27Crf+48ECWAcpw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 14:22:19 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-ohq9Oi/JV5fte2Qkl4QeueK6YAqUZdUKJDfC+0ZnCWU="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/NerfUI.wasm",
-      "AssetFile": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\obj\\Debug\\net9.0\\compressed\\vbb5ufv4uh-y78jhhqojn.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000037295342"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "26812"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"cuSRGur0355jiaRhHQJ2jla8Dle/ETKQK+qnE6F5u2I=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 14:22:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"ohq9Oi/JV5fte2Qkl4QeueK6YAqUZdUKJDfC+0ZnCWU=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-ohq9Oi/JV5fte2Qkl4QeueK6YAqUZdUKJDfC+0ZnCWU="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/NerfUI.wasm.gz",
-      "AssetFile": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\obj\\Debug\\net9.0\\compressed\\vbb5ufv4uh-y78jhhqojn.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "26812"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"cuSRGur0355jiaRhHQJ2jla8Dle/ETKQK+qnE6F5u2I=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 14:22:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-cuSRGur0355jiaRhHQJ2jla8Dle/ETKQK+qnE6F5u2I="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/NerfUI.y78jhhqojn.wasm",
-      "AssetFile": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\bin\\Debug\\net9.0\\wwwroot\\_framework\\NerfUI.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "69397"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ohq9Oi/JV5fte2Qkl4QeueK6YAqUZdUKJDfC+0ZnCWU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 14:22:19 GMT"
+          "Value": "Mon, 10 Mar 2025 02:40:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -59512,7 +59375,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "y78jhhqojn"
+          "Value": "u13me66fun"
         },
         {
           "Name": "label",
@@ -59520,18 +59383,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ohq9Oi/JV5fte2Qkl4QeueK6YAqUZdUKJDfC+0ZnCWU="
+          "Value": "sha256-DoH/nNbKR8TzwIi95p4WBz++BVaF27Crf+48ECWAcpw="
         }
       ]
     },
     {
-      "Route": "_framework/NerfUI.y78jhhqojn.wasm",
-      "AssetFile": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\obj\\Debug\\net9.0\\compressed\\vbb5ufv4uh-y78jhhqojn.gz",
+      "Route": "_framework/NerfUI.u13me66fun.wasm",
+      "AssetFile": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\obj\\Debug\\net9.0\\compressed\\vbb5ufv4uh-u13me66fun.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000037295342"
+          "Quality": "0.000037488285"
         }
       ],
       "ResponseHeaders": [
@@ -59541,15 +59404,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "26812"
+          "Value": "26674"
         },
         {
           "Name": "ETag",
-          "Value": "\"cuSRGur0355jiaRhHQJ2jla8Dle/ETKQK+qnE6F5u2I=\""
+          "Value": "\"g/R25kzYuYar2uufnV/c6+DfyBdFp3ZAw128hYdT7GM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 14:22:20 GMT"
+          "Value": "Mon, 10 Mar 2025 02:40:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -59569,13 +59432,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ohq9Oi/JV5fte2Qkl4QeueK6YAqUZdUKJDfC+0ZnCWU=\""
+          "Value": "W/\"DoH/nNbKR8TzwIi95p4WBz++BVaF27Crf+48ECWAcpw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "y78jhhqojn"
+          "Value": "u13me66fun"
         },
         {
           "Name": "label",
@@ -59583,13 +59446,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ohq9Oi/JV5fte2Qkl4QeueK6YAqUZdUKJDfC+0ZnCWU="
+          "Value": "sha256-DoH/nNbKR8TzwIi95p4WBz++BVaF27Crf+48ECWAcpw="
         }
       ]
     },
     {
-      "Route": "_framework/NerfUI.y78jhhqojn.wasm.gz",
-      "AssetFile": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\obj\\Debug\\net9.0\\compressed\\vbb5ufv4uh-y78jhhqojn.gz",
+      "Route": "_framework/NerfUI.u13me66fun.wasm.gz",
+      "AssetFile": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\obj\\Debug\\net9.0\\compressed\\vbb5ufv4uh-u13me66fun.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -59598,7 +59461,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "26812"
+          "Value": "26674"
         },
         {
           "Name": "Content-Type",
@@ -59606,11 +59469,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"cuSRGur0355jiaRhHQJ2jla8Dle/ETKQK+qnE6F5u2I=\""
+          "Value": "\"g/R25kzYuYar2uufnV/c6+DfyBdFp3ZAw128hYdT7GM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 14:22:20 GMT"
+          "Value": "Mon, 10 Mar 2025 02:40:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -59628,7 +59491,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "y78jhhqojn"
+          "Value": "u13me66fun"
         },
         {
           "Name": "label",
@@ -59636,7 +59499,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-cuSRGur0355jiaRhHQJ2jla8Dle/ETKQK+qnE6F5u2I="
+          "Value": "sha256-g/R25kzYuYar2uufnV/c6+DfyBdFp3ZAw128hYdT7GM="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/NerfUI.wasm",
+      "AssetFile": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\bin\\Debug\\net9.0\\wwwroot\\_framework\\NerfUI.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68885"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DoH/nNbKR8TzwIi95p4WBz++BVaF27Crf+48ECWAcpw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 02:40:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DoH/nNbKR8TzwIi95p4WBz++BVaF27Crf+48ECWAcpw="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/NerfUI.wasm",
+      "AssetFile": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\obj\\Debug\\net9.0\\compressed\\vbb5ufv4uh-u13me66fun.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000037488285"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26674"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g/R25kzYuYar2uufnV/c6+DfyBdFp3ZAw128hYdT7GM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 02:40:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"DoH/nNbKR8TzwIi95p4WBz++BVaF27Crf+48ECWAcpw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DoH/nNbKR8TzwIi95p4WBz++BVaF27Crf+48ECWAcpw="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/NerfUI.wasm.gz",
+      "AssetFile": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\obj\\Debug\\net9.0\\compressed\\vbb5ufv4uh-u13me66fun.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26674"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g/R25kzYuYar2uufnV/c6+DfyBdFp3ZAw128hYdT7GM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 02:40:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-g/R25kzYuYar2uufnV/c6+DfyBdFp3ZAw128hYdT7GM="
         }
       ]
     },

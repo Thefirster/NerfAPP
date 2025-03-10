@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "D:\\GithubCode\\NerfApp\\TestOfNerf\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B11FBA12-4AB2-418D-B0C2-F7D996D56734}|..\\NerfUI\\NerfUI\\NerfUI.csproj|d:\\githubcode\\nerfapp\\nerfui\\nerfui\\nerfui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{B11FBA12-4AB2-418D-B0C2-F7D996D56734}|..\\NerfUI\\NerfUI\\NerfUI.csproj|d:\\githubcode\\nerfapp\\nerfui\\nerfui\\component\\componentbutton.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B11FBA12-4AB2-418D-B0C2-F7D996D56734}|..\\NerfUI\\NerfUI\\NerfUI.csproj|d:\\githubcode\\nerfapp\\nerfui\\nerfui\\pages\\nerfapp.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
@@ -13,9 +13,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{B11FBA12-4AB2-418D-B0C2-F7D996D56734}|..\\NerfUI\\NerfUI\\NerfUI.csproj|d:\\githubcode\\nerfapp\\nerfui\\nerfui\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B11FBA12-4AB2-418D-B0C2-F7D996D56734}|..\\NerfUI\\NerfUI\\NerfUI.csproj|d:\\githubcode\\nerfapp\\nerfui\\nerfui\\component\\componentbutton.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B11FBA12-4AB2-418D-B0C2-F7D996D56734}|..\\NerfUI\\NerfUI\\NerfUI.csproj|d:\\githubcode\\nerfapp\\nerfui\\nerfui\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
@@ -31,7 +28,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1589,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -41,7 +38,7 @@
               "RelativeDocumentMoniker": "..\\NerfUI\\NerfUI\\Pages\\NerfApp.razor",
               "ToolTip": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\Pages\\NerfApp.razor",
               "RelativeToolTip": "..\\NerfUI\\NerfUI\\Pages\\NerfApp.razor",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-09T13:18:37.836Z",
               "IsPinned": true,
@@ -58,18 +55,17 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-04T09:04:35.577Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "ComponentButton.razor",
               "DocumentMoniker": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\Component\\ComponentButton.razor",
               "RelativeDocumentMoniker": "..\\NerfUI\\NerfUI\\Component\\ComponentButton.razor",
               "ToolTip": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\Component\\ComponentButton.razor",
               "RelativeToolTip": "..\\NerfUI\\NerfUI\\Component\\ComponentButton.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-09T13:27:20.548Z",
               "IsPinned": true,
@@ -77,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "app.css",
               "DocumentMoniker": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\wwwroot\\css\\app.css",
               "RelativeDocumentMoniker": "..\\NerfUI\\NerfUI\\wwwroot\\css\\app.css",
@@ -90,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "..\\NerfUI\\NerfUI\\Layout\\MainLayout.razor",
@@ -111,19 +107,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "NerfUI",
-              "DocumentMoniker": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\NerfUI.csproj",
-              "RelativeDocumentMoniker": "..\\NerfUI\\NerfUI\\NerfUI.csproj",
-              "ToolTip": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\NerfUI.csproj",
-              "RelativeToolTip": "..\\NerfUI\\NerfUI\\NerfUI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-09T14:21:17.518Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\GithubCode\\NerfApp\\NerfUI\\NerfUI\\Properties\\launchSettings.json",
@@ -132,8 +115,7 @@
               "RelativeToolTip": "..\\NerfUI\\NerfUI\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-09T14:09:16.471Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T14:09:16.471Z"
             }
           ]
         },
